@@ -1,0 +1,2 @@
+# BachelorarbeitErgebnisse
+Json Ergebnisdateien
